@@ -13,4 +13,4 @@ The code features:
 
 The code is broke up into two files. Run the simulation script and you'll be left with the location data of the particles. The animation script animates the scene. 
 
-My idea with that position data is that i could auto label a universe simulation. Inspired by Stephen Wolfram's cellular automata, i would be looking for what i call a set of injection vectors
+My idea with the position data is that I could auto label a universe simulation. Inspired by Stephen Wolfram's cellular automata, i would be looking for an initialization vector (velocity, acceleration, position, universal constants, etc.) that produces interesting phenomenon. For example, because all the particles just have gravity acting on them, the particles will eventually all occupy the same position. So I might auto label reward for initialization vectors that result in a longer lasting universe simulation. I go more in depth in this video: https://www.youtube.com/watch?v=DVxFjD7zNac&t=7s
