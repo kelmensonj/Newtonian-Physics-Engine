@@ -8,7 +8,7 @@ It was one of my first projects and i made it primarily for one reason - i belie
 The code features:
 
 - databases
-- animation scripting, including creating new meshes, addimg materials and applying particle systems (for the trails) to each of them
+- animation scripting, including creating new meshes, adding materials, keyframing motion, and applying particle systems (for the trails) to each of them
 - accurate physical modelling using timesteps
 
 The code is broke up into two files. Run the simulation script and you'll be left with the location data of the particles. The animation script animates the scene. 
