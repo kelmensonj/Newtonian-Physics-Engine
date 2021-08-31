@@ -11,6 +11,6 @@ The code features:
 - animation scripting, including creating new meshes, addimg materials and applying particle systems (for the trails) to each of them
 - accurate physical modelling using timesteps
 
-The code is broke up into two files. Run the first script and you'll be left with the location data of the particles. The second script animates the scene. 
+The code is broke up into two files. Run the simulation script and you'll be left with the location data of the particles. The animation script animates the scene. 
 
 My idea with that position data is that i could auto label a universe simulation. Inspired by Stephen Wolfram's cellular automata, i would be looking for what i call a set of injection vectors
