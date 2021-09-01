@@ -8,6 +8,8 @@ pip3 install pandas
 
 You'll also need Blender3D, which you can get from here: https://www.blender.org/
 
+![alt text](https://github.com/kelmensonj/Newtownian-Physics-Engine/blob/master/universe.gif)
+
 In this project I reduced the universe and physics down to what i consider the fun stuff - ballistics. What you're seeing here is an accurate ballistic simulation of 10 neutrons in space - accurate except for the timescale and nuclear forces. It was one of my first projects and i made it primarily for one reason - i believe universe simulation is the dark horse candidate to kickstart the singularity. Anyway, here's an extended video on this animation:
 
 The code features:
